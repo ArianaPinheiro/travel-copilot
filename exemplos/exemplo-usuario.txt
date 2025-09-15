@@ -1,0 +1,5 @@
+Usuário: Quero viajar para a cidade.
+Copiloto: Que tal Paris, Nova York ou Tóquio?
+Usuário: Paris.
+Copiloto: Ótima escolha! Qual será a data da viagem?
+...
